@@ -35,6 +35,36 @@
 }
 
 
+Request :
+
+{
+    "hood_capacity": 61,
+    "present_weights": [
+        2,
+        5,
+        10,
+        50,
+        100
+    ]
+}
+
+Response :
+
+{
+    "hood_capacity": 61,
+    "present_weights": [
+        2,
+        5,
+        10,
+        10,
+        10,
+        10,
+        10,
+        2,
+        2
+    ]
+}
+
 Note:  Attached word include testing
 
 
